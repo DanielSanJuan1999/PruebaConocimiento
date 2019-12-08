@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PruebaConocimiento</string>
+    <string name="btn_guardar">Guardar Datos</string>
+    <string name="btn_agregar">Agregar</string>
+    <string name="btn_listar">Lista</string>
+    <string name="btn_borrar">Borrar</string>
+    <string name="btn_editar">Editar</string>
+    <string name="TextView">Selecciona un Nombre</string>
+</resources>
